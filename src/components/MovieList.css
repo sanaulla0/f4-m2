@@ -1,0 +1,24 @@
+.ta{
+   display: grid;
+   justify-content: center;
+   place-content: center;
+   height: 98vh;
+   width: 90vw;
+
+}
+.th{
+   background-color: rgb(192, 195, 195);
+}
+.table{
+   border-collapse: collapse;
+  border: 1px solid black;
+   font-size: medium;
+  border: collapse;
+  width: 80vw;
+}
+
+td{
+   text-align: center;
+    margin: 2px;
+    padding: 10px;
+}

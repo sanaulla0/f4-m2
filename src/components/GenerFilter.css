@@ -1,0 +1,28 @@
+.filter{
+   background-color: rgb(241, 230, 230);
+   width: 85vw;
+   margin-left: 5%;
+   padding: 3px;
+   /* padding-left:2px; */
+   
+}
+h2{
+   padding-left: 20px;
+   font-size: xx-large;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button{ 
+ display: inline;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 2%;
+  padding: 10px;
+  align-items: baseline;
+ color: black;
+ border: none;
+ background-color: rgb(193, 182, 182);
+}
+.btn{
+  /* width: 85px; */
+}
